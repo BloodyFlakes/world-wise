@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "24fd",
+      "cityName": "Manchester",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-06-17T20:35:08.000Z",
+      "notes": "Fuck ",
+      "position": {
+        "lat": "53.44283443462213",
+        "lng": "-2.2247540387174074"
+      }
+    },
+    {
+      "id": "be0d",
+      "cityName": "Mississauga",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2023-09-19T20:37:27.000Z",
+      "notes": "Good",
+      "position": {
+        "lat": "43.582818608948116",
+        "lng": "-79.70970640436802"
+      }
+    }
+  ]
+}
